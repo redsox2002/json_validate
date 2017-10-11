@@ -1,6 +1,6 @@
 # JSON Validate
 
-JSON Validate is a JSON validator that uses the [click](http://click.pocoo.org/5/) module.
+JSON Validate is a JSON validator that uses the Python [click](http://click.pocoo.org/5/) module.
 
 ### How it works
 
