@@ -1,8 +1,8 @@
-# Python CLI JSON Validator Tool
+# JSON Validate
 
-This is a JSON validator that uses the [click](http://click.pocoo.org/5/) module.
+JSON Validate is a JSON validator that uses the Python [click](http://click.pocoo.org/5/) module.
 
-# How it works
+### How it works
 
 1. Run `./json_validate.py validate /path/to/json/file`
 2. It will confirm if you want to validate, type either `y` or `N`.
