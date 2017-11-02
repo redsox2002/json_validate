@@ -3,6 +3,7 @@
 
 import click
 import json
+import sys
 
 CTX_SILENT_MODE = 'silent'
 CTX_DEBUG_MODE = 'debug'
